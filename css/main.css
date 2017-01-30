@@ -1,0 +1,9 @@
+#karuselli img {
+    object-fit: cover;
+}
+
+@media (max-width: 767px) {
+    #karuselli img {
+        height: 179px !important;
+    }
+}
