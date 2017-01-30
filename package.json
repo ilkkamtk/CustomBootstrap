@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/ilkkamtk/CustomBootstrap#readme",
   "devDependencies": {
-    "node-sass": "^4.4.0",
-    "nodemon": "^1.11.0"
+    "node-sass": "^4.4.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
